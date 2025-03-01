@@ -1,0 +1,34 @@
+
+
+.container-fluid{
+    background-image: url(./images/download-blurry-background-wallpaper-10.jpg);
+    width: 100%;
+    background-size: cover;
+  }
+  
+  .indus{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .h1 h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    color: aliceblue;
+          background-color: black;
+          -webkit-background-clip: text;
+          background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-position: center;
+          background-image: url(./images/back.jpg );
+          letter-spacing: 2px;
+          font-family: Arial, Helvetica, sans-serif;
+  }
+  .img{
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    gap: 10px;
+  }
